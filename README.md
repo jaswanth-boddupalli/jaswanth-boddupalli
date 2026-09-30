@@ -1,16 +1,32 @@
-### Hi there 👋
+# Dr. Jaswanth Boddupalli
 
+**Postdoctoral-level researcher in plant metabolomics & in silico drug discovery**
+Project Associate II, Indian Institute of Science (IISc), Bengaluru
+Ph.D. Biotechnology, Vikrama Simhapuri University (2021-2026) · PG Biotechnology Gold Medalist, Sri Venkateswara University
 
-**jaswanthkrish96/jaswanthkrish96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Research pipeline
 
-- 🔭 I’m currently working on Plant Tissue Culture/ Hydroponics
-- 🌱 I’m currently learning production of secondary metabolites
-- 👯 I’m looking to collaborate on Elicitors in medicinal plants
-- 🤔 I’m looking for help with plant growth datasets
-- 💬 Ask me about hydroponics
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jaswanthbk/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 1. Regulary performs Yogic practices
+Endangered medicinal plants → in vitro propagation → phytochemical analysis (GC-MS) →
+elicitor-enhanced bioactive production → molecular docking & dynamics simulation.
 
+- 5 publications on Caralluma spp. (endangered), Bacopa monnieri, and NFT hydroponics optimization
+- Molecular docking and MD simulation for therapeutic evaluation of plant extracts
+- NFT hydroponics / controlled-environment cultivation parameter optimization
+- Method development · scientific writing · student mentorship
+
+### Currently building
+
+Reproducible metabolomics data workflows in Python - public GC-MS dataset reanalysis,
+RDKit-based phytochemical fingerprinting, and ML-ready feature pipelines.
+*(New repos landing here - watch this space.)*
+
+### Research interests
+
+Gene editing · bioreactor scale-up of in vitro production · computational drug discovery · bioinformatics
+
+### Links
+
+- LinkedIn: [linkedin.com/in/jaswanthbk](https://www.linkedin.com/in/jaswanthbk)
+- Email: jaswanthkrish96@gmail.com
