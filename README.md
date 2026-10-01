@@ -98,6 +98,7 @@ Full citation metrics, co-authors, and preprints are indexed on [Google Scholar]
 
 ## 💻 Research Repositories & Open Tooling
 
+* 🌐 [**jaswanth-boddupalli/portfolio**](https://github.com/jaswanth-boddupalli/portfolio): Official academic portfolio website built with Next.js 16, TypeScript, and Tailwind CSS. Features an interactive 4-stage bench-to-computation pipeline explorer, verified publication registry with BibTeX export, bio-instrumentation gallery, and direct academic contact gateway.
 * 🌿 [**jaswanth-boddupalli/hydroponics**](https://github.com/jaswanth-boddupalli/hydroponics): Modular Python package modeling nutrient kinetics, electrical conductivity (EC), pH dynamics, and crop growth metrics in Nutrient Film Technique (NFT) hydroponics. Includes unit tests, OOP architecture, and automated visualization modules.
 * 🧪 **Metabolomics & Screening Toolkits (In Development):** Reproducible Python pipelines implementing GC-MS retention index alignment, PCA clustering, and AutoDock Vina / RDKit virtual screening.
 
