@@ -1,26 +1,18 @@
-# Dr. Jaswanth Boddupalli, Ph.D.
+<h1 align="center">Dr. Jaswanth Boddupalli, Ph.D.</h1>
 
 <p align="center">
-  <a href="https://iap.iisc.ac.in/~saisiva.gorthi/people.html">
-    <img src="https://img.shields.io/badge/🏛️_IISc_Bengaluru-OMI_Lab_(Dept._IAP)-155996?style=flat-square" alt="IISc Bengaluru OMI Lab" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=VP1qsPkAAAAJ">
-    <img src="https://img.shields.io/badge/🎓_Ph.D._Biotechnology-Conferred_2026-1E3A8A?style=flat-square" alt="Ph.D. Biotechnology" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=VP1qsPkAAAAJ">
-    <img src="https://img.shields.io/badge/🥇_University_Gold_Medalist-1st_Rank_M.Sc.-D4AF37?style=flat-square&logoColor=black" alt="University Gold Medalist" />
-  </a>
+  <a href="https://iap.iisc.ac.in/~saisiva.gorthi/people.html"><img src="https://img.shields.io/badge/🏛️_IISc_Bengaluru-OMI_Lab_(Dept._IAP)-0f766e?style=flat-square" alt="IISc Bengaluru OMI Lab" /></a>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=VP1qsPkAAAAJ"><img src="https://img.shields.io/badge/🎓_Ph.D._Biotechnology-Conferred_2026-1e3a8a?style=flat-square" alt="Ph.D. Biotechnology" /></a>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=VP1qsPkAAAAJ"><img src="https://img.shields.io/badge/🥇_University_Gold_Medalist-1st_Rank_M.Sc.-b45309?style=flat-square" alt="University Gold Medalist" /></a>
 </p>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=VP1qsPkAAAAJ">Google Scholar</a> &nbsp;•&nbsp;
-  <a href="https://www.researchgate.net/profile/Jaswanth-Boddupalli">ResearchGate</a> &nbsp;•&nbsp;
-  <a href="https://loop.frontiersin.org/people/2244216/overview">Frontiers Loop</a> &nbsp;•&nbsp;
-  <a href="https://www.scilit.com/scholars/019f29bf7abe71b7a70e6dcbcfc70e59">Scilit</a> &nbsp;•&nbsp;
-  <a href="https://hal.science/hal-05035867">HAL Science</a> &nbsp;•&nbsp;
-  <a href="https://medium.com/@jaswanthkrish96/biostatistics-240f57b72b18">Medium</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/jaswanthboddupalli">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:jaswanthkrish96@gmail.com">Email</a>
+  <a href="https://scholar.google.com/citations?user=VP1qsPkAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>&nbsp;
+  <a href="https://www.researchgate.net/profile/Jaswanth-Boddupalli"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>&nbsp;
+  <a href="https://loop.frontiersin.org/people/2244216/overview"><img src="https://img.shields.io/badge/Frontiers_Loop-E05D44?style=flat-square&logoColor=white" alt="Frontiers Loop" /></a>&nbsp;
+  <a href="https://hal.science/hal-05035867"><img src="https://img.shields.io/badge/HAL_Science-003366?style=flat-square&logoColor=white" alt="HAL Science" /></a>&nbsp;
+  <a href="https://www.scilit.com/scholars/019f29bf7abe71b7a70e6dcbcfc70e59"><img src="https://img.shields.io/badge/Scilit-009688?style=flat-square&logoColor=white" alt="Scilit" /></a>&nbsp;
+  <a href="https://medium.com/@jaswanthkrish96/biostatistics-240f57b72b18"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jaswanthboddupalli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:jaswanthkrish96@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -35,7 +27,7 @@
 My research connects endangered botanical conservation with analytical phytochemistry, bioanalytical instrumentation, and computational drug discovery. I specialize in establishing end-to-end translational pipelines from plant tissue culture and elicitation to spectroscopic characterization and in silico therapeutic screening:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jaswanth-boddupalli/jaswanth-boddupalli/main/assets/pipeline_diagram.svg" width="100%" alt="The Bench-to-Computation Research Pipeline" />
+  <img src="assets/pipeline_diagram.svg" width="100%" alt="The Bench-to-Computation Research Pipeline" />
 </p>
 
 ---

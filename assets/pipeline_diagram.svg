@@ -9,176 +9,171 @@
 
     <!-- Card 1 Accent Gradient (Emerald) -->
     <linearGradient id="card1Grad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#065f46" stop-opacity="0.25"/>
+      <stop offset="0%" stop-color="#065f46" stop-opacity="0.35"/>
       <stop offset="100%" stop-color="#022c22" stop-opacity="0.1"/>
     </linearGradient>
 
-    <!-- Card 2 Accent Gradient (Cyan) -->
+    <!-- Card 2 Accent Gradient (Sky / Cyan) -->
     <linearGradient id="card2Grad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0e7490" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#083344" stop-opacity="0.1"/>
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#082f49" stop-opacity="0.1"/>
     </linearGradient>
 
     <!-- Card 3 Accent Gradient (Indigo) -->
     <linearGradient id="card3Grad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#4338ca" stop-opacity="0.25"/>
+      <stop offset="0%" stop-color="#4f46e5" stop-opacity="0.35"/>
       <stop offset="100%" stop-color="#1e1b4b" stop-opacity="0.1"/>
     </linearGradient>
 
     <!-- Card 4 Accent Gradient (Rose) -->
     <linearGradient id="card4Grad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#be123c" stop-opacity="0.25"/>
+      <stop offset="0%" stop-color="#e11d48" stop-opacity="0.35"/>
       <stop offset="100%" stop-color="#4c0519" stop-opacity="0.1"/>
     </linearGradient>
 
     <!-- Flow Connector Gradient -->
     <linearGradient id="arrowGrad" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="100%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#a855f7"/>
     </linearGradient>
-
-    <!-- Card Drop Shadow -->
-    <filter id="cardShadow" x="-10" y="-10" width="220" height="260" filterUnits="userSpaceOnUse">
-      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.4"/>
-    </filter>
   </defs>
 
   <!-- Container Box -->
   <rect width="860" height="280" rx="16" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="1.5"/>
 
   <!-- ==================== CARD 1: Plant Tissue Culture ==================== -->
-  <g filter="url(#cardShadow)">
-    <rect x="25" y="25" width="180" height="230" rx="12" fill="#111827" stroke="#059669" stroke-width="1.2"/>
-    <rect x="25" y="25" width="180" height="230" rx="12" fill="url(#card1Grad)"/>
+  <g id="card1">
+    <rect x="21" y="25" width="182" height="230" rx="12" fill="#111827" stroke="#059669" stroke-width="1.2"/>
+    <rect x="21" y="25" width="182" height="230" rx="12" fill="url(#card1Grad)"/>
     
     <!-- Step Badge -->
-    <rect x="37" y="37" width="58" height="20" rx="4" fill="#065f46"/>
-    <text x="66" y="51" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle">STEP 01</text>
+    <rect x="33" y="37" width="58" height="20" rx="4" fill="#065f46"/>
+    <text x="62" y="51" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle">STEP 01</text>
     
     <!-- Title -->
-    <text x="37" y="80" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700">Tissue Culture</text>
-    <text x="37" y="96" fill="#10b981" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Botanical Conservation</text>
+    <text x="33" y="80" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700">Tissue Culture</text>
+    <text x="33" y="96" fill="#10b981" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Botanical Conservation</text>
     
     <!-- Bullet details -->
-    <circle cx="43" cy="120" r="2.5" fill="#34d399"/>
-    <text x="52" y="123" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Somatic embryogenesis</text>
+    <circle cx="39" cy="120" r="2.5" fill="#34d399"/>
+    <text x="48" y="123" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Somatic embryogenesis</text>
     
-    <circle cx="43" cy="142" r="2.5" fill="#34d399"/>
-    <text x="52" y="145" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Multiple shoot induction</text>
+    <circle cx="39" cy="142" r="2.5" fill="#34d399"/>
+    <text x="48" y="145" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Multiple shoot induction</text>
     
-    <circle cx="43" cy="164" r="2.5" fill="#34d399"/>
-    <text x="52" y="167" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11"><tspan font-style="italic">Caralluma</tspan> &amp; <tspan font-style="italic">Bacopa</tspan></text>
+    <circle cx="39" cy="164" r="2.5" fill="#34d399"/>
+    <text x="48" y="167" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11"><tspan font-style="italic">Caralluma</tspan> &amp; <tspan font-style="italic">Bacopa</tspan></text>
     
-    <circle cx="43" cy="186" r="2.5" fill="#34d399"/>
-    <text x="52" y="189" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Explant sterilization math</text>
+    <circle cx="39" cy="186" r="2.5" fill="#34d399"/>
+    <text x="48" y="189" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Explant sterilization math</text>
     
     <!-- Bottom Tag -->
-    <rect x="37" y="218" width="156" height="22" rx="4" fill="#022c22" stroke="#065f46" stroke-width="0.8"/>
-    <text x="115" y="233" fill="#6ee7b7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">Wet-Lab Biology Moat</text>
+    <rect x="31" y="218" width="162" height="22" rx="4" fill="#022c22" stroke="#065f46" stroke-width="0.8"/>
+    <text x="112" y="233" fill="#6ee7b7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">Wet-Lab Biology Moat</text>
   </g>
 
   <!-- Arrow 1 -> 2 -->
-  <path d="M 213 140 L 227 140" stroke="url(#arrowGrad)" stroke-width="2.5" stroke-linecap="round"/>
-  <polygon points="227,136 235,140 227,144" fill="#38bdf8"/>
+  <path d="M 207 140 L 223 140" stroke="url(#arrowGrad)" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="223,136 229,140 223,144" fill="#38bdf8"/>
 
   <!-- ==================== CARD 2: Elicitation Kinetics ==================== -->
-  <g filter="url(#cardShadow)">
-    <rect x="238" y="25" width="180" height="230" rx="12" fill="#111827" stroke="#0284c7" stroke-width="1.2"/>
-    <rect x="238" y="25" width="180" height="230" rx="12" fill="url(#card2Grad)"/>
+  <g id="card2">
+    <rect x="233" y="25" width="182" height="230" rx="12" fill="#111827" stroke="#0284c7" stroke-width="1.2"/>
+    <rect x="233" y="25" width="182" height="230" rx="12" fill="url(#card2Grad)"/>
     
     <!-- Step Badge -->
-    <rect x="250" y="37" width="58" height="20" rx="4" fill="#075985"/>
-    <text x="279" y="51" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle">STEP 02</text>
+    <rect x="245" y="37" width="58" height="20" rx="4" fill="#075985"/>
+    <text x="274" y="51" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle">STEP 02</text>
     
     <!-- Title -->
-    <text x="250" y="80" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700">Elicitation</text>
-    <text x="250" y="96" fill="#0284c7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Bioactive Enhancement</text>
+    <text x="245" y="80" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700">Elicitation</text>
+    <text x="245" y="96" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Bioactive Enhancement</text>
     
     <!-- Bullet details -->
-    <circle cx="256" cy="120" r="2.5" fill="#38bdf8"/>
-    <text x="265" y="123" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Jasmonic acid (JA) trigger</text>
+    <circle cx="251" cy="120" r="2.5" fill="#38bdf8"/>
+    <text x="260" y="123" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Jasmonic acid (JA) trigger</text>
     
-    <circle cx="256" cy="142" r="2.5" fill="#38bdf8"/>
-    <text x="265" y="145" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Salicylic acid (SA) stress</text>
+    <circle cx="251" cy="142" r="2.5" fill="#38bdf8"/>
+    <text x="260" y="145" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Salicylic acid (SA) stress</text>
     
-    <circle cx="256" cy="164" r="2.5" fill="#38bdf8"/>
-    <text x="265" y="167" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Cell suspension biomass</text>
+    <circle cx="251" cy="164" r="2.5" fill="#38bdf8"/>
+    <text x="260" y="167" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Cell suspension biomass</text>
     
-    <circle cx="256" cy="186" r="2.5" fill="#38bdf8"/>
-    <text x="265" y="189" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Time-series harvest kinetics</text>
+    <circle cx="251" cy="186" r="2.5" fill="#38bdf8"/>
+    <text x="260" y="189" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Time-series harvest kinetics</text>
     
     <!-- Bottom Tag -->
-    <rect x="250" y="218" width="156" height="22" rx="4" fill="#082f49" stroke="#0369a1" stroke-width="0.8"/>
-    <text x="328" y="233" fill="#7dd3fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">Metabolic Pathway Control</text>
+    <rect x="243" y="218" width="162" height="22" rx="4" fill="#082f49" stroke="#0284c7" stroke-width="0.8"/>
+    <text x="324" y="233" fill="#7dd3fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">Metabolic Pathway Control</text>
   </g>
 
   <!-- Arrow 2 -> 3 -->
-  <path d="M 426 140 L 440 140" stroke="url(#arrowGrad)" stroke-width="2.5" stroke-linecap="round"/>
-  <polygon points="440,136 448,140 440,144" fill="#6366f1"/>
+  <path d="M 419 140 L 435 140" stroke="url(#arrowGrad)" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="435,136 441,140 435,144" fill="#6366f1"/>
 
   <!-- ==================== CARD 3: Metabolomics & Spectroscopy ==================== -->
-  <g filter="url(#cardShadow)">
-    <rect x="451" y="25" width="180" height="230" rx="12" fill="#111827" stroke="#6366f1" stroke-width="1.2"/>
-    <rect x="451" y="25" width="180" height="230" rx="12" fill="url(#card3Grad)"/>
+  <g id="card3">
+    <rect x="445" y="25" width="182" height="230" rx="12" fill="#111827" stroke="#6366f1" stroke-width="1.2"/>
+    <rect x="445" y="25" width="182" height="230" rx="12" fill="url(#card3Grad)"/>
     
     <!-- Step Badge -->
-    <rect x="463" y="37" width="58" height="20" rx="4" fill="#3730a3"/>
-    <text x="492" y="51" fill="#a5b4fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle">STEP 03</text>
+    <rect x="457" y="37" width="58" height="20" rx="4" fill="#3730a3"/>
+    <text x="486" y="51" fill="#a5b4fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle">STEP 03</text>
     
     <!-- Title -->
-    <text x="463" y="80" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700">Metabolomics</text>
-    <text x="463" y="96" fill="#818cf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Analytical Chemistry</text>
+    <text x="457" y="80" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700">Metabolomics</text>
+    <text x="457" y="96" fill="#818cf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Analytical Chemistry</text>
     
     <!-- Bullet details -->
-    <circle cx="469" cy="120" r="2.5" fill="#a5b4fc"/>
-    <text x="478" y="123" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">GC-MS Chromatography</text>
+    <circle cx="463" cy="120" r="2.5" fill="#a5b4fc"/>
+    <text x="472" y="123" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">GC-MS Chromatography</text>
     
-    <circle cx="469" cy="142" r="2.5" fill="#a5b4fc"/>
-    <text x="478" y="145" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">FT-IR spectral analysis</text>
+    <circle cx="463" cy="142" r="2.5" fill="#a5b4fc"/>
+    <text x="472" y="145" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">FT-IR spectral analysis</text>
     
-    <circle cx="469" cy="164" r="2.5" fill="#a5b4fc"/>
-    <text x="478" y="167" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Retention index deconvolution</text>
+    <circle cx="463" cy="164" r="2.5" fill="#a5b4fc"/>
+    <text x="472" y="167" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Retention index deconv.</text>
     
-    <circle cx="469" cy="186" r="2.5" fill="#a5b4fc"/>
-    <text x="478" y="189" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Multivariate PCA / Volcano</text>
+    <circle cx="463" cy="186" r="2.5" fill="#a5b4fc"/>
+    <text x="472" y="189" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Multivariate PCA / Volcano</text>
     
     <!-- Bottom Tag -->
-    <rect x="463" y="218" width="156" height="22" rx="4" fill="#1e1b4b" stroke="#4338ca" stroke-width="0.8"/>
-    <text x="541" y="233" fill="#c7d2fe" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">Data Automation (Python)</text>
+    <rect x="455" y="218" width="162" height="22" rx="4" fill="#1e1b4b" stroke="#4f46e5" stroke-width="0.8"/>
+    <text x="536" y="233" fill="#c7d2fe" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">Data Automation (Python)</text>
   </g>
 
   <!-- Arrow 3 -> 4 -->
-  <path d="M 639 140 L 653 140" stroke="url(#arrowGrad)" stroke-width="2.5" stroke-linecap="round"/>
-  <polygon points="653,136 661,140 653,144" fill="#f43f5e"/>
+  <path d="M 631 140 L 647 140" stroke="url(#arrowGrad)" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="647,136 653,140 647,144" fill="#f43f5e"/>
 
   <!-- ==================== CARD 4: In Silico Virtual Screening ==================== -->
-  <g filter="url(#cardShadow)">
-    <rect x="664" y="25" width="180" height="230" rx="12" fill="#111827" stroke="#e11d48" stroke-width="1.2"/>
-    <rect x="664" y="25" width="180" height="230" rx="12" fill="url(#card4Grad)"/>
+  <g id="card4">
+    <rect x="657" y="25" width="182" height="230" rx="12" fill="#111827" stroke="#e11d48" stroke-width="1.2"/>
+    <rect x="657" y="25" width="182" height="230" rx="12" fill="url(#card4Grad)"/>
     
     <!-- Step Badge -->
-    <rect x="676" y="37" width="58" height="20" rx="4" fill="#9f1239"/>
-    <text x="705" y="51" fill="#fda4af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle">STEP 04</text>
+    <rect x="669" y="37" width="58" height="20" rx="4" fill="#9f1239"/>
+    <text x="698" y="51" fill="#fda4af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" text-anchor="middle">STEP 04</text>
     
     <!-- Title -->
-    <text x="676" y="80" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700">In Silico Screen</text>
-    <text x="676" y="96" fill="#f43f5e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Computational Biology</text>
+    <text x="669" y="80" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700">In Silico Screen</text>
+    <text x="669" y="96" fill="#f43f5e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Computational Biology</text>
     
     <!-- Bullet details -->
-    <circle cx="682" cy="120" r="2.5" fill="#fda4af"/>
-    <text x="691" y="123" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">RDKit &amp; Lipinski Rule of 5</text>
+    <circle cx="675" cy="120" r="2.5" fill="#fda4af"/>
+    <text x="684" y="123" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">RDKit &amp; Lipinski Rule of 5</text>
     
-    <circle cx="682" cy="142" r="2.5" fill="#fda4af"/>
-    <text x="691" y="145" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">AutoDock Vina docking</text>
+    <circle cx="675" cy="142" r="2.5" fill="#fda4af"/>
+    <text x="684" y="145" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">AutoDock Vina docking</text>
     
-    <circle cx="682" cy="164" r="2.5" fill="#fda4af"/>
-    <text x="691" y="167" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Free energy binding (ΔG)</text>
+    <circle cx="675" cy="164" r="2.5" fill="#fda4af"/>
+    <text x="684" y="167" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">Free energy binding (ΔG)</text>
     
-    <circle cx="682" cy="186" r="2.5" fill="#fda4af"/>
-    <text x="691" y="189" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">PyMOL 3D contact poses</text>
+    <circle cx="675" cy="186" r="2.5" fill="#fda4af"/>
+    <text x="684" y="189" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11">PyMOL 3D contact poses</text>
     
     <!-- Bottom Tag -->
-    <rect x="676" y="218" width="156" height="22" rx="4" fill="#4c0519" stroke="#9f1239" stroke-width="0.8"/>
-    <text x="754" y="233" fill="#fecdd3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">Translational Discovery</text>
+    <rect x="667" y="218" width="162" height="22" rx="4" fill="#4c0519" stroke="#be123c" stroke-width="0.8"/>
+    <text x="748" y="233" fill="#fecdd3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">Translational Discovery</text>
   </g>
 </svg>
