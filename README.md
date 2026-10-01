@@ -26,9 +26,11 @@
 
 My research connects endangered botanical conservation with analytical phytochemistry, bioanalytical instrumentation, and computational drug discovery. I specialize in establishing end-to-end translational pipelines from plant tissue culture and elicitation to spectroscopic characterization and in silico therapeutic screening:
 
-<p align="center">
-  <img src="assets/pipeline_diagram.svg" width="100%" alt="The Bench-to-Computation Research Pipeline" />
-</p>
+| 🟢 **STEP 01: Tissue Culture**<br>*(Botanical Conservation)* | 🔵 **STEP 02: Elicitation**<br>*(Bioactive Enhancement)* | 🟣 **STEP 03: Metabolomics**<br>*(Analytical Chemistry)* | 🔴 **STEP 04: In Silico Screen**<br>*(Computational Biology)* |
+| :--- | :--- | :--- | :--- |
+| • Somatic embryogenesis<br>• Multiple shoot induction<br>• *Caralluma* & *Bacopa* species<br>• Explant sterilization math | • Jasmonic acid (JA) trigger<br>• Salicylic acid (SA) stress<br>• Cell suspension biomass<br>• Time-series harvest kinetics | • GC-MS chromatography<br>• FT-IR spectral analysis<br>• Retention index deconvolution<br>• Multivariate PCA / Volcano plots | • RDKit & Lipinski Rule of 5<br>• AutoDock Vina docking<br>• Binding free energy ($\Delta G$)<br>• PyMOL 3D contact poses |
+| `Wet-Lab Biology Moat` | `Metabolic Pathway Control` | `Data Automation (Python)` | `Translational Discovery` |
+
 
 ---
 
