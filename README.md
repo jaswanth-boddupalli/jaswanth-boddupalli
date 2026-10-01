@@ -1,7 +1,7 @@
 # Dr. Jaswanth Boddupalli, Ph.D.
 
 <p align="left">
-  <a href="https://scholar.google.com/citations?user=Y1eD69AAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Dr._Boddupalli_Krishna_Jaswanth-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://scholar.google.com/citations?user=VP1qsPkAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Dr._Boddupalli_Krishna_Jaswanth-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="https://www.researchgate.net/profile/Jaswanth-Boddupalli"><img src="https://img.shields.io/badge/ResearchGate-Jaswanth_Boddupalli-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
   <a href="https://www.linkedin.com/in/jaswanthboddupalli"><img src="https://img.shields.io/badge/LinkedIn-jaswanthboddupalli-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="llms.txt"><img src="https://img.shields.io/badge/LLM_Context-llms.txt-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="llms.txt" /></a>
@@ -40,7 +40,7 @@ My research connects endangered medicinal plant conservation with analytical met
 
 ### Selected Scholarly Output
 
-Full citation metrics, co-authors, and preprints available on [Google Scholar](https://scholar.google.com/citations?user=Y1eD69AAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Jaswanth-Boddupalli).
+Full citation metrics, co-authors, and preprints available on [Google Scholar](https://scholar.google.com/citations?user=VP1qsPkAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Jaswanth-Boddupalli).
 
 #### Book Chapters & Monographs
 * [**Conservation of Medicinal Plant Bramhi - *Bacopa monnieri* (L.) Wettstein Through in vitro Cultures**](https://www.eurekaselect.com/article/139352)  
@@ -57,7 +57,7 @@ Full citation metrics, co-authors, and preprints available on [Google Scholar](h
   *Current Biotechnology* / EurekaSelect, Bentham Science.
 * [**Effect of Jasmonic Acid on Somatic Embryogenesis in *Caralluma fimbriata***](https://www.ejbps.com)  
   *European Journal of Biomedical and Pharmaceutical Sciences* (EJBPS).
-* [**FT-IR and GC-MS Metabolomic Fingerprinting of Jasmonic Acid and Salicylic Acid Treated Suspension Cultures of *Caralluma fimbriata***](https://scholar.google.com/citations?user=Y1eD69AAAAAJ)  
+* [**FT-IR and GC-MS Metabolomic Fingerprinting of Jasmonic Acid and Salicylic Acid Treated Suspension Cultures of *Caralluma fimbriata***](https://scholar.google.com/citations?user=VP1qsPkAAAAJ)  
   *Phytomedicine*, Elsevier (Manuscript PHYMED-D-26-04105, Under Review).
 
 ---
@@ -91,7 +91,7 @@ Full citation metrics, co-authors, and preprints available on [Google Scholar](h
 ### Connect & Collaborate
 
 * **Institutional Affiliation:** Optics and Microfluidics Instrumentation (OMI) Lab, Dept. of Instrumentation & Applied Physics, IISc Bengaluru
-* **Google Scholar:** [Dr. Boddupalli Krishna Jaswanth](https://scholar.google.com/citations?user=Y1eD69AAAAAJ)
+* **Google Scholar:** [Dr. Boddupalli Krishna Jaswanth](https://scholar.google.com/citations?user=VP1qsPkAAAAJ)
 * **ResearchGate:** [Jaswanth Boddupalli](https://www.researchgate.net/profile/Jaswanth-Boddupalli)
 * **LinkedIn:** [linkedin.com/in/jaswanthboddupalli](https://www.linkedin.com/in/jaswanthboddupalli)
 * **Email:** [jaswanthkrish96@gmail.com](mailto:jaswanthkrish96@gmail.com)
