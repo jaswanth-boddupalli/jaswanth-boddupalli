@@ -81,7 +81,7 @@ Full citation metrics, co-authors, and preprints are indexed on [Google Scholar]
 
 ### Research Repositories & Open Tooling
 
-* [**jaswanthkrish96/hydroponics**](https://github.com/jaswanthkrish96/hydroponics): Python package modeling nutrient kinetics, electrical conductivity (EC), pH dynamics, and crop growth metrics in Nutrient Film Technique (NFT) hydroponics. Includes unit tests, OOP architecture, and statistical yield modules.
+* [**jaswanth-boddupalli/hydroponics**](https://github.com/jaswanth-boddupalli/hydroponics): Python package modeling nutrient kinetics, electrical conductivity (EC), pH dynamics, and crop growth metrics in Nutrient Film Technique (NFT) hydroponics. Includes unit tests, OOP architecture, and statistical yield modules.
 * **Metabolomics & Screening Toolkits (In Development):** Reproducible Python pipelines implementing GC-MS retention index alignment, PCA clustering, and AutoDock Vina / RDKit virtual screening.
 
 ---

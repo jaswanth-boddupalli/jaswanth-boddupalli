@@ -1,7 +1,6 @@
-# robots.txt for Dr. Jaswanth Boddupalli (github.com/jaswanthkrish96)
+# robots.txt for Dr. Jaswanth Boddupalli (github.com/jaswanth-boddupalli)
 User-agent: *
 Allow: /
 
-# Canonical AI / LLM Context Dossier
-# Machine-readable researcher profile and publication register:
-# https://raw.githubusercontent.com/jaswanthkrish96/jaswanthkrish96/main/llms.txt
+# Canonical LLM and Machine Context
+# https://raw.githubusercontent.com/jaswanth-boddupalli/jaswanth-boddupalli/main/llms.txt
