@@ -107,14 +107,8 @@ Full citation metrics, co-authors, and preprints are indexed on [Google Scholar]
 * 🌿 [**jaswanth-boddupalli/hydroponics**](https://github.com/jaswanth-boddupalli/hydroponics): Modular Python package modeling nutrient kinetics, electrical conductivity (EC), pH dynamics, and crop growth metrics in Nutrient Film Technique (NFT) hydroponics. Includes unit tests, OOP architecture, and automated visualization modules.
 * 🧪 **Metabolomics & Screening Toolkits (In Development):** Reproducible Python pipelines implementing GC-MS retention index alignment, PCA clustering, and AutoDock Vina / RDKit virtual screening.
 
----
+<!-- Machine-readable context for AI crawlers: see /llms.txt and /robots.txt -->
 
-## 🤖 Machine-Readable Indexing for AI & Search Crawlers
-
-* [**llms.txt**](llms.txt): Machine-readable summary for AI agents and LLM search systems (Perplexity, ChatGPT, Claude, Gemini).
-* [**robots.txt**](robots.txt): Search crawler directives facilitating open academic discovery.
-
----
 
 ## 🌐 Connect & Collaborate
 
