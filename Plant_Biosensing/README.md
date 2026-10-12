@@ -1,6 +1,6 @@
-# Plant Sensing Proof-of-Concept Pipeline
+# Plant Biosensing Proof-of-Concept Pipeline
 
-This project provides a computational proof-of-concept for non-destructive plant trait retrieval from spectral reflectance. The pipeline is designed for applications in autonomous controlled-environment agriculture and precision phenotyping.
+This project provides a computational proof-of-concept for non-destructive plant trait retrieval from spectral reflectance (optical biosensing). The pipeline is designed for applications in autonomous controlled-environment agriculture and precision phenotyping.
 
 ## Pipeline Overview
 

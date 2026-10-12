@@ -99,7 +99,7 @@ Full citation metrics, co-authors, and preprints are indexed on [Google Scholar]
 ## 💻 Research Repositories & Open Tooling
 
 * 🌐 [**jaswanth-boddupalli/portfolio**](https://github.com/jaswanth-boddupalli/portfolio): Official academic portfolio website built with Next.js 16, TypeScript, and Tailwind CSS. Features an interactive 4-stage bench-to-computation pipeline explorer, verified publication registry with BibTeX export, bio-instrumentation gallery, and direct academic contact gateway.
-* 🌾 [**Plant_Sensing_Project**](./Plant_Sensing_Project): Computational proof-of-concept pipeline for non-destructive plant physiological trait retrieval from canopy and leaf spectral reflectance. Features PROSAIL radiative transfer simulations, Latin Hypercube Sampling (LHS), and machine learning inversion (Random Forest & XGBoost).
+* 🌾 [**Plant_Biosensing**](./Plant_Biosensing): Computational proof-of-concept pipeline for non-destructive plant physiological trait retrieval from canopy and leaf spectral reflectance (optical biosensing). Features PROSAIL radiative transfer simulations, Latin Hypercube Sampling (LHS), and machine learning inversion (Random Forest & XGBoost).
 * 🌿 [**jaswanth-boddupalli/hydroponics**](https://github.com/jaswanth-boddupalli/hydroponics): Modular Python package modeling nutrient kinetics, electrical conductivity (EC), pH dynamics, and crop growth metrics in Nutrient Film Technique (NFT) hydroponics. Includes unit tests, OOP architecture, and automated visualization modules.
 * 🧪 **Metabolomics & Screening Toolkits (In Development):** Reproducible Python pipelines implementing GC-MS retention index alignment, PCA clustering, and AutoDock Vina / RDKit virtual screening.
 
